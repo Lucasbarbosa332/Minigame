@@ -13,6 +13,7 @@ Mini game de montar blocos
 ## 👨‍💻 Tecnologia utilizadas
 
 <p align='center'>
+   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge' />
   <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
